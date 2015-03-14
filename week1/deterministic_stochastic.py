@@ -16,7 +16,7 @@ def stochasticNumber():
 #Sol 3
 
 def stochasticNumber():
-  x = random.randint(10, 22)
+  x = random.randint(10, 20)
   if (x % 2 == 0):
     return x
   else:
